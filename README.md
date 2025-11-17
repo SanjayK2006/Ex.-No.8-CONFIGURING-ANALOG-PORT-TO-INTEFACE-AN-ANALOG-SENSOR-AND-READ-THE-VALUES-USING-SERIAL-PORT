@@ -2,8 +2,9 @@
 
 
 ### Ex. No. :8 CONFIGURING ANALOG PORT TO INTEFACE AN ANALOG SENSOR AND READ THE VALUES USING SERIAL PORT
-## Date: 
-###  
+### NAME: SANJAY K
+### REG NO: 212223220094
+## Date: 13-11-25
 
 ## Aim: 
 To configure ADC channel for interfacing an analog sensor and read the values on the com port 
@@ -302,8 +303,9 @@ void Error_Handler(void)
  
 ## Output  :
 <img width="1914" height="1079" alt="Screenshot 2025-11-17 190646" src="https://github.com/user-attachments/assets/88065d28-281c-4f10-9a7b-98b3f79e891f" />
-![pmc 8th](https://github.com/user-attachments/assets/1ebffdfc-b6eb-4ec3-868e-5335a416dcd1)
-![ss3](https://github.com/user-attachments/assets/abd6710c-d56a-4a19-9e2b-b49857a22534)
+<img width="665" height="959" alt="Screenshot 2025-11-17 192145" src="https://github.com/user-attachments/assets/4afca566-9bc3-43dd-ac8f-a21bc4810945" />
+<img width="1041" height="551" alt="Screenshot 2025-11-17 192206" src="https://github.com/user-attachments/assets/3d20302b-2267-499d-b437-6e1e9de42363" />
+
 
 
 
